@@ -3075,6 +3075,14 @@ input, select, textarea {
 						display: inline;
 					}
 
+			.canopy-container {
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+				margin-top: 2em;
+			}
+
 		/* Footer */
 
 			#footer {
