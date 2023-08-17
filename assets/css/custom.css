@@ -3,12 +3,13 @@
 }
 
 #canopy-diagram {
-	width: 50%;
+	width: 60%;
 }
 
 .canopy-container {
   display: flex;
   justify-content: center;
+  margin-top: 2em;
 }
 
 .canopy-container p {
@@ -34,7 +35,7 @@
 #avatar {
   border-radius: 100%;
   margin: 0 0 2em 0;
-  width: 65%;
+  width: 180px;
 }
 
 #one .major a {
