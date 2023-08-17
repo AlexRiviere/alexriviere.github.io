@@ -13,7 +13,9 @@
 
 .canopy-container p {
   align-self: center;
-  color: #20302C;
+  color: black;
+  font-weight: bold;
+  margin-right: 50px;
 }
 
 .image.fit.thumb {
@@ -26,11 +28,15 @@
 
 
 #two article {
-  text-align: center;
   color: #20302C;
 }
 
 #avatar {
   border-radius: 100%;
+  margin: 0 0 2em 0;
   width: 65%;
+}
+
+#one .major a {
+  color: white;
 }
