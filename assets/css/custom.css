@@ -1,0 +1,33 @@
+#canopy-logo-and-name {
+	width: 100%;
+}
+
+#canopy-diagram {
+	width: 50%;
+}
+
+.canopy-container {
+  display: flex;
+  justify-content: center;
+}
+
+.canopy-container p {
+  align-self: center;
+  color: #20302C;
+}
+
+.image.fit.thumb {
+  border: 1px solid black;
+}
+
+#two {
+  color: #20302C;
+}
+#two p {
+  font-size: 15px;
+}
+
+#two article {
+  text-align: center;
+  color: #20302C;
+}
