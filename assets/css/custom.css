@@ -23,11 +23,14 @@
 #two {
   color: #20302C;
 }
-#two p {
-  font-size: 15px;
-}
+
 
 #two article {
   text-align: center;
   color: #20302C;
+}
+
+#avatar {
+  border-radius: 100%;
+  width: 65%;
 }
